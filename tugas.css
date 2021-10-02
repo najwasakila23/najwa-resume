@@ -4,14 +4,10 @@ body {
 
 .foto{
     text-align: center;
-    /* cara nambahin background
-     background-image: url('foto najwa.jpg');
-    */ 
 }
 
 .perkenalan:hover {
     color: yellow;
-    height: 50px;
 }
 
 .ukuran-gambar {
@@ -19,28 +15,17 @@ body {
     height: 200px;
     border-radius: 500px;
     margin: auto;
-    border: 4px solid rebeccapurple
-/* }
-.circle>.ambar-saya {
-    width: 200px;
-    height: 200px;
-}
-.circle{
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-    border-radius: 50%;
-    margin: auto; */
+ 
 }
 .satu {
     text-align: center;
     background-color : rgb(121, 87, 155);
     font-size: larger;
+    margin: auto;
 }
 .name {
     background-color:rebeccapurple;
     border: 4px solid black;
-    border-radius: 20px;
     width: 1000px;
     font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -53,7 +38,9 @@ body {
     font-size: larger;
     background-color:rgb(121, 87, 155) ;
 }
-
+.dua :hover {
+    color:yellow ;
+}
 .akun {
     background-color :rebeccapurple;
     width: 400px;
@@ -67,6 +54,9 @@ body {
     font-size: larger;
     background-color:rgb(121, 87, 155);
 } 
+.tiga :hover {
+    color: yellow;
+}
 .pendidikan{
     background-color: rebeccapurple;
     width: 250px;
@@ -80,6 +70,9 @@ body {
     text-align: center;
     font-size: larger;
     background-color: rgb(121, 87, 155);
+}
+.lima :hover {
+    color: yellow;
 }
 .skill{
     background-color: rebeccapurple;
@@ -97,6 +90,9 @@ body {
     font-size: larger;
     background-color:rgb(121, 87, 155) ;
 }
+.empat:hover {
+      color : yellow;
+}
 .pengalaman{
     background-color:rebeccapurple;
     border:4px solid black;
@@ -111,6 +107,9 @@ body {
     font-size: larger; 
     background-color:rgb(121, 87, 155) ;
     margin: auto;
+}
+.enam :hover {
+    color: yellow;
 }
 .web{
     background-color: rebeccapurple;
@@ -129,6 +128,15 @@ body {
     font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     margin: auto;
+}
+.tujuh {
+    background-color:rgb(121, 87, 155) ;;
+    margin: auto;
+    text-align: center;
+    font-size: larger;
+}
+.tujuh :hover {
+    color: yellow;
 }
 
 
